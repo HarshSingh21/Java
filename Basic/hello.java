@@ -29,9 +29,6 @@ class hello
              System.out.println(b);
      
 }
-    }
-
-
-
+}
 
 
